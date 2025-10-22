@@ -72,7 +72,7 @@ const auth = new authr.GoogleAuth({
   
   
 //func.functions()
-//functions.useEmulator("127.0.0.1", 5001);projects/pc-api-880030605475630724-598/topics/Play-Store-Notifications
+//functions.useEmulator("127.0.0.1", 5001);projects/pc-api/topics/Play-Store-Notifications
 var h =false
 
 exports.updatePurchState=onRequest(
